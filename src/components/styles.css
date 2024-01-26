@@ -1,0 +1,60 @@
+/* styles.css */
+
+.expression-form {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.expression-form-row {
+    margin-bottom: 20px;
+}
+
+.expression-form-label {
+    font-weight: bold;
+}
+
+.expression-form-btn {
+    width: calc(33.33% - 5px);
+    font-size: 14px;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.expression-form-btn:last-child {
+    margin-right: 0;
+}
+
+.expression-form-add-btn {
+    width: calc(33.33% - 5px);
+    font-size: 14px;
+    border-radius: 20px;
+    margin-right: 5px;
+    background-color: rgb(134, 28, 134);
+    border-color: violet;
+}
+
+.expression-form-submit-btn {
+    width: calc(33.33% - 5px);
+    font-size: 14px;
+    border-radius: 20px;
+    margin-right: 5px;
+    background-color: green;
+    border-color: green;
+}
+
+.expression-form-delete-btn {
+    width: calc(33.33% - 5px);
+    font-size: 14px;
+    border-radius: 20px;
+    margin-right: 5px;
+    background-color: red;
+    border-color: red;
+    margin-top: 12px;
+}
+
+  
